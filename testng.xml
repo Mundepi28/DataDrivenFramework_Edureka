@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="FrameworkEdureka">
+
+    <test name="UsingFrameworkTesting">
+        <classes>
+            <class name="com.edureka.testScripts.TestScriptsDataDriven"/>
+        <!--    <class name="HybridFramework.TestScriptsHybrid"/> -->
+        </classes>
+    </test>
+
+</suite>
